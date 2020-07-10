@@ -1,0 +1,13 @@
+.card-style{
+    border: 2px solid;
+    width: 300px;
+    margin: 10px;
+}
+.button-style{
+    margin: 10px!important;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
